@@ -12,7 +12,7 @@ But, most importantly, because it's fun!
 ## Contents
 
 ## Or you can simply study Algorithms to finally understand some memes
-![Logo](https://scontent.fmxp2-1.fna.fbcdn.net/v/t1.0-9/16406479_165757413918841_9214636900362142932_n.jpg?oh=f89f5a173bfde695973cdf164bc2a533&oe=5A552041)
+<img src="https://scontent.fmxp2-1.fna.fbcdn.net/v/t1.0-9/16406479_165757413918841_9214636900362142932_n.jpg?oh=f89f5a173bfde695973cdf164bc2a533&oe=5A552041" width="600px" height="400px" />
 
 ## Contributing
 
