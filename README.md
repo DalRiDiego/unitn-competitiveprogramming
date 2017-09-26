@@ -2,8 +2,7 @@
 
 ## Why study algorithms?
 [Why study algorithms? - Quora](https://www.quora.com/Why-study-algorithms)
-
-#### But, mostly important, because it's fun!
+But, most importantly, because it's fun!
 
 ## Competitive Programming
 
