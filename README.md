@@ -6,6 +6,7 @@
 But, most importantly, because it's fun!
 
 ## Competitive Programming
+[What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
 
 ## Contests
 
