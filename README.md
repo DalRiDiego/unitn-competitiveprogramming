@@ -1,2 +1,2 @@
-# unitn-acmicpc
-Material used by the team of the University of Trento for the preparation of the ACM-ICPC
+# University of Trento
+Collection of material related to competitive programming curated by students at University of Trento
