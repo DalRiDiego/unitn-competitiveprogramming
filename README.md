@@ -9,6 +9,19 @@ But, most importantly, because it's fun!
 [What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
 
 ## Contests
+Every year, UniTN sponsors the participation of one team of students in the regional contest of the ACM-ICPC competition.  The ACM International Collegiate Programming Contest  is the oldest programming competition, running since the seventies. In order to participate, teams are selected in the following way:
+
+Universities organise local competitions to select the beast teams to send to the regional contest.
+
+At UniTN we run a series of meetings to train on the ACM-ICPC problems from April to May. At the end of May, a local competition is held to select one (or more) teams.
+
+The best teams participate in a regional contest; Italy belongs to the SWERC group, whose competitions are normally held in November. 
+
+The expenses to participate in the event are (almost) fully covered by UniTN.
+
+The selected teams perform additional training from September to November.
+
+The best teams in the regional contest participate in the world contest, usually held on the next year. 
 
 ## Contents
 
