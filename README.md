@@ -40,7 +40,7 @@ The best teams in the regional contest participate in the world contest, usually
 Yes, you can simply study Algorithms to understand this kind of memes.
 
 ## Contributing
-Send me a pull request, open issues and share with your friends :)
+Send me a pull request, open some issues and share with your friends :)
 
 
 
