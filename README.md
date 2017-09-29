@@ -27,6 +27,11 @@ But, most importantly, because it's fun!
 * You can also find some online contests on Hackerrank (the Week of Code is a really good starting point), Codeforces and TopCoder. They are usually held once every week.
 
 ## Material
+* **Solutions:**
+  * You can find some solutions  of ACM-ICPC (and maybe more contests) in this repository. I promise I will comment every solution.
+* **Books:**
+  * [Competitive Programmer’s Handbook](http://disi.unitn.it/~montreso/acm-icpc/CompetitiveProgrammersHandbook.pdf)
+* **Work in progress**
 
 ## FAQs
 [How can I become good at competitive programming? - Quora](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems-I-am-good-at-data-structures)
