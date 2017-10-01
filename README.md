@@ -29,8 +29,15 @@ But, most importantly, because it's fun!
 ## Material
 * **Solutions:**
   * You can find some solutions of the ACM-ICPC and maybe more contests in this repository. I promise I will comment every solution.
-* **Books:**
+* **Books (only freely available):**
   * [Competitive Programmer’s Handbook](http://disi.unitn.it/~montreso/acm-icpc/CompetitiveProgrammersHandbook.pdf)
+  * [Competitive Programming 1](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
+* **Books (you can find them in the library in Povo 1):**
+  * Introduction to Algorithms 
+* **Usefull links**
+  * [How to prepare for ACM – ICPC?](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
+  * [C++ tricks](http://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)
+  
 * **Work in progress**
 
 ## FAQs
