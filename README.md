@@ -24,7 +24,7 @@ But, most importantly, because it's fun!
   
 * There are lots of online contests, the most important are the Google Code Jam organized by Google and the Facebook Hacker Cup organized by Facebook. Usually there are 2 or 3 online rounds and one final onsite round somewhere in the World. 
 
-* You can also find some contests on Hackerrank (the Week of Code is a really good starting point), Codeforces and TopCoder. They are usually held once every week. The level of the problems goes from really easy to exceptionally hard.
+* You can also find some contests on Hackerrank (the Week of Code is a really good starting point), Codeforces and TopCoder. They are usually held once every week. The level of the problems goes from really easy to exceptionally hard. They also give you some kinds of editorial at the end of every contest, so you can learn a lot by reading them.
 
 ## Material
 * **Solutions:**
@@ -34,6 +34,8 @@ But, most importantly, because it's fun!
   * [Competitive Programming 1](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
 * **Books (you can find them in the library in Povo 1):**
   * Introduction to Algorithms 
+  * Programming Challanges
+  * Algoritmi e Strutture di Dati
 * **Usefull links**
   * [How to prepare for ACM – ICPC?](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
   * [C++ tricks](http://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)
