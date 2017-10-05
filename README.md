@@ -43,7 +43,7 @@ But, most importantly, because it's fun!
   * [How to prepare for ACM – ICPC?](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
   * [C++ tricks](http://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)
 * **Tutorials**
-  *
+  * ...
   
 * **Work in progress**
 
