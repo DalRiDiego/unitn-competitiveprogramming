@@ -38,12 +38,15 @@ But, most importantly, because it's fun!
   * Algoritmi e Strutture di Dati
 * **Online Judges**
   * [Italian Olympiad in Informatics](https://cms.di.unipi.it)
+* **Videos**
+  * [Youtube channel of the Italian Olympiad in Informatics](https://www.youtube.com/channel/UCutaUebEoGKDKZR7s09HfdQ/videos)
+* **Tutorials**
+  * ...
 * **Usefull links**
   * [Algorithms and Data Structures course at UniTN](http://cricca.disi.unitn.it/montresor/teaching/asd/)
   * [How to prepare for ACM – ICPC?](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
   * [C++ tricks](http://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)
-* **Tutorials**
-  * ...
+
   
 * **Work in progress**
 
