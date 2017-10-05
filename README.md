@@ -28,7 +28,7 @@ But, most importantly, because it's fun!
 
 ## Material
 * **Solutions:**
-  * You can find some solutions of the ACM-ICPC and maybe more contests in this repository. I promise I will comment every solution.
+  * You can find some solutions of the ACM-ICPC and maybe more contests in this repository. I promise I will try to put a small description of the idea behind the solution every time.
 * **Books (only freely available):**
   * [Competitive Programmer’s Handbook](http://disi.unitn.it/~montreso/acm-icpc/CompetitiveProgrammersHandbook.pdf)
   * [Competitive Programming 1](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
