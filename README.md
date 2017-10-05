@@ -42,6 +42,8 @@ But, most importantly, because it's fun!
   * [Algorithms and Data Structures course at UniTN](http://cricca.disi.unitn.it/montresor/teaching/asd/)
   * [How to prepare for ACM – ICPC?](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
   * [C++ tricks](http://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)
+* **Tutorials**
+  *
   
 * **Work in progress**
 
@@ -60,7 +62,8 @@ But, most importantly, because it's fun!
 Yes, you can simply study Algorithms to understand this kind of memes.
 
 ## Contributing
-Send me a pull request, open some issues and share with your friends :)
+Open some issues or write anything you want and send me a pull request!
+Share with your friends! :)
 
 
 
