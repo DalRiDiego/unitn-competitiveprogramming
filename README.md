@@ -40,6 +40,7 @@ But, most importantly, because it's fun!
   * [Italian Olympiad in Informatics](https://cms.di.unipi.it)
 * **Videos**
   * [Youtube channel of the Italian Olympiad in Informatics](https://www.youtube.com/channel/UCutaUebEoGKDKZR7s09HfdQ/videos)
+  * [Playlist of the Algorithms and Data Structures course at MIT](https://www.youtube.com/watch?v=HtSuA80QTyo&t=1s)
 * **Tutorials**
   * ...
 * **Usefull links**
