@@ -39,6 +39,7 @@ But, most importantly, because it's fun!
 * **Online Judges**
   * [Italian Olympiad in Informatics](https://cms.di.unipi.it)
 * **Usefull links**
+  * [Algorithms and Data Structures course at UniTN](http://cricca.disi.unitn.it/montresor/teaching/asd/)
   * [How to prepare for ACM – ICPC?](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
   * [C++ tricks](http://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)
   
